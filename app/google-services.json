@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140809180175",
+    "project_id": "chatvox2-38f85",
+    "storage_bucket": "chatvox2-38f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140809180175:android:c956eafc6367e29ce7bf7a",
+        "android_client_info": {
+          "package_name": "com.accessauthority.chatvox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRTjt4HDkkU6psyN3a9UvpCAtrGH2w7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
