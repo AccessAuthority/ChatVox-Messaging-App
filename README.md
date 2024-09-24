@@ -6,7 +6,7 @@ Welcome to my Anroid Messaging App! This project is built using Java and XML, wi
 - **User Authentication:** Secure login and registration using Firebase.
 - **Real-Time Messaging:** Instant messaging capabilities powered by Firebase.
 - **User List:** View a list of registered users.
-- **Chat Functionality:** Engage in one-on-one or group chats.
+- **Chat Functionality:** Engage in one-on-one.
 - **Status Updates:** Share status updates with friends.
 - **User Profiles:** Customizable profiles with the ability to update profile pictures and personal information.
 - **Fully Responsive Design:** Optimized for various screen sizes and devices.
